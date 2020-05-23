@@ -1,0 +1,15 @@
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Data\bin\Debug\netcoreapp3.1\Altran.Data.deps.json
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Data\bin\Debug\netcoreapp3.1\Altran.Data.runtimeconfig.json
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Data\bin\Debug\netcoreapp3.1\Altran.Data.runtimeconfig.dev.json
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Data\bin\Debug\netcoreapp3.1\Altran.Data.dll
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Data\bin\Debug\netcoreapp3.1\Altran.Data.pdb
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Data\bin\Debug\netcoreapp3.1\Altran.Business.dll
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Data\bin\Debug\netcoreapp3.1\Altran.Business.pdb
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Data\obj\Debug\netcoreapp3.1\Altran.Data.csprojAssemblyReference.cache
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Data\obj\Debug\netcoreapp3.1\Altran.Data.AssemblyInfoInputs.cache
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Data\obj\Debug\netcoreapp3.1\Altran.Data.AssemblyInfo.cs
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Data\obj\Debug\netcoreapp3.1\Altran.Data.csproj.CoreCompileInputs.cache
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Data\obj\Debug\netcoreapp3.1\Altran.Data.csproj.CopyComplete
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Data\obj\Debug\netcoreapp3.1\Altran.Data.dll
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Data\obj\Debug\netcoreapp3.1\Altran.Data.pdb
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Data\obj\Debug\netcoreapp3.1\Altran.Data.genruntimeconfig.cache

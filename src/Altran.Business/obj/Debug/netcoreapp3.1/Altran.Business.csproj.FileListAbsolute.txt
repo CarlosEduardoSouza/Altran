@@ -1,0 +1,9 @@
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Business\bin\Debug\netcoreapp3.1\Altran.Business.deps.json
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Business\bin\Debug\netcoreapp3.1\Altran.Business.dll
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Business\bin\Debug\netcoreapp3.1\Altran.Business.pdb
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Business\obj\Debug\netcoreapp3.1\Altran.Business.AssemblyInfoInputs.cache
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Business\obj\Debug\netcoreapp3.1\Altran.Business.AssemblyInfo.cs
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Business\obj\Debug\netcoreapp3.1\Altran.Business.csproj.CoreCompileInputs.cache
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Business\obj\Debug\netcoreapp3.1\Altran.Business.dll
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Business\obj\Debug\netcoreapp3.1\Altran.Business.pdb
+C:\Users\kakan\Desktop\AltranApi\src\Altran.Business\obj\Debug\netcoreapp3.1\Altran.Business.csprojAssemblyReference.cache
